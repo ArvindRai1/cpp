@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
-
+//AR initial commit
 int main()
 {
- 	cout<<"Hello world! \n";
+ 	cout<<"Hello world! "<< endl;
 	return 0; 
 }
